@@ -4,4 +4,4 @@ The Purpose of this analysis is to evaluate the effectiveness of the opioid regu
 The details of the analysis can be found in the report. 
 
 The datasets have been provided in the [this github repository](https://github.com/anas14680/Opioid-Regulations-Evaluations/tree/master/00_source_data). However, while uploading the shipment data we breached the limits of git lfs as the data was 80GB in size. The source for this dataset has also been added to the report. The data can be found [here](https://www.washingtonpost.com/national/2019/07/18/how-download-use-dea-pain-pills-database/) as well.
-The python sript used to processes this data has been placed in this repository in 10_code directory by the name of cleaning_shipment_data.py.  (https://github.com/anas14680/Opioid-Regulations-Evaluations/blob/master/10_code/cleaning_shipment_data.py). 
+The python sript used to processes this data has been placed in [this](https://github.com/anas14680/Opioid-Regulations-Evaluations/blob/master/10_code/cleaning_shipment_data.py) file. 
